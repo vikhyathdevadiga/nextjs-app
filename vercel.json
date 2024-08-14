@@ -1,9 +1,9 @@
 {
   "git": {
     "deploymentEnabled": {
-      "main": true,
+      "main": false,
       "test": false,
-      "turborepo": false
+      "turborepo": true
     }
   }
 }
